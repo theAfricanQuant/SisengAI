@@ -11,11 +11,9 @@ about:
     - text: Twitter
       href: https://twitter.com/theAfricanQuant
     - text: GitHub
-      href: https://github.com/theAfricanQunat
+      href: https://github.com/theAfricanQuant
     - text: Email
       href: Ricky.Macharm@SisengAI.com
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Thanks for dropping by. My name is Ricky, and SisengAI is a pet project that showcases my venture in to Data Science, Machine Learning, Financial Engineering and NLP.
