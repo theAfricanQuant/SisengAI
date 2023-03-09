@@ -1,6 +1,7 @@
 ---
 title: "Ricky Macharm"
 image: Ricky.png
+resources: Ricky_DataScientist_2023.pdf
 about: 
   template: trestles
   image-shape: round
