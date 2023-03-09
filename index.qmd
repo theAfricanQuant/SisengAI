@@ -17,7 +17,7 @@ about:
       href: https://github.com/theAfricanQuant
     - text: Email
       icon: envelope
-      href: Ricky.Macharm@SisengAI.com
+      href: mailto:Ricky.Macharm@SisengAI.com
     - text: résumé
       icon: file-text
       href: Ricky_DataScientist_2023.pdf
