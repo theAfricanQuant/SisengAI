@@ -3,17 +3,24 @@ title: "Ricky Macharm"
 image: Ricky.png
 about: 
   template: trestles
-  image-shape: rounded
+  image-shape: round
   image-width: 15em
   links:
     - text: LinkedIn
+      icon: linkedin
       href: https://www.linkedin.com/in/theafricanquant/
     - text: Twitter
+      icon: twitter
       href: https://twitter.com/theAfricanQuant
     - text: GitHub
+      icon: github
       href: https://github.com/theAfricanQuant
     - text: Email
+      icon: envelope
       href: Ricky.Macharm@SisengAI.com
+    - text: résumé
+      icon: file-text
+      href: Ricky_Data Scientist_2023.pdf
 ---
 
 Thanks for dropping by. My name is Ricky, and SisengAI is a pet project that showcases my venture in to Data Science, Machine Learning, Financial Engineering and NLP.
