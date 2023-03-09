@@ -20,7 +20,7 @@ about:
       href: Ricky.Macharm@SisengAI.com
     - text: résumé
       icon: file-text
-      href: Ricky_Data Scientist_2023.pdf
+      href: Ricky_DataScientist_2023.pdf
 ---
 
 Thanks for dropping by. My name is Ricky, and SisengAI is a pet project that showcases my venture in to Data Science, Machine Learning, Financial Engineering and NLP.
