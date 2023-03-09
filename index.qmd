@@ -1,5 +1,19 @@
 ---
-title: "SisengAI"
+title: "Ricky Macharm"
+image: Ricky.png
+about: 
+  template: trestles
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/theafricanquant/
+    - text: Twitter
+      href: https://twitter.com/theAfricanQuant
+    - text: GitHub
+      href: https://github.com/theAfricanQunat
+    - text: Email
+      href: Ricky.Macharm@SisengAI.com
 ---
 
 This is a Quarto website.
