@@ -33,10 +33,10 @@ about:
 
 <div class="topbr">
 <p class="custom-subtitle">`r fontawesome::fa("graduation-cap", fill = "#98A08D", a11y = "sem")` **MSc in Financial Engineering, 2021**</p>  
-<p class="custom-subtitle2">WorldQuant University</p>
+<p class="custom-subtitle2">WorldQuant University, New Orleans, LA, USA.</p>
 
 <p class="custom-subtitle">`r fontawesome::fa("graduation-cap", fill = "#98A08D", a11y = "sem")` **BS in Electrical & Electronics Engineering, 2000**</p>  
-<p class="custom-subtitle2">Abubakar Tafawa Balewa University Bauchi, Nigeria</p>
+<p class="custom-subtitle2">Abubakar Tafawa Balewa University, Bauchi, Nigeria.</p>
 </div>
 
 
