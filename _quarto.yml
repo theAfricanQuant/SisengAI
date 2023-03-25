@@ -11,7 +11,7 @@ website:
         text: Home
       - about.qmd
       - resources.qmd # my new Navigation Bar
-      - blog_posts.qmd # add your blog_posts.qmd file to your navbar!
+      - blog_posts.qmd # add your blog_posts.qmd file to the navbar of your website!
 
 format:
   html:
