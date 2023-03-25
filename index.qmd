@@ -25,3 +25,33 @@ about:
 ---
 
 Thanks for dropping by. My name is Ricky, and SisengAI is a pet project that showcases my venture in to Data Science, Machine Learning, Financial Engineering and NLP.
+
+
+### Hello, World!    
+
+<p class="topbr"> Thanks for dropping by. My name is Ricky, and SisengAI is a pet project that showcases my venture in to Data Science, Machine Learning, Financial Engineering and NLP. I'm currently a data science instructor at [WorldQuant University](https://www.wqu.edu/programs/applied-ds-lab) located at New Orleans, LA. We also offer a free Master in Financial Engineering at the same [univerity](https://www.wqu.edu/programs/mscfe/). Follow the links I have shared to enroll in any of them if you are interested.</p>
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+### education
+
+<div class="topbr">
+<p class="custom-subtitle">`r fontawesome::fa("graduation-cap", fill = "#98A08D", a11y = "sem")` **MSc in Financial Engineering, 2021**</p>  
+<p class="custom-subtitle2">WorldQuant University</p>
+
+<p class="custom-subtitle">`r fontawesome::fa("graduation-cap", fill = "#98A08D", a11y = "sem")` **BS Electrical & Electronics Engineering, 2000**</p>  
+<p class="custom-subtitle2">Abubakar tafawa Balewa University Bauchi, Nigeria</p>
+</div>
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+### experience
+
+<div class="topbr">
+<p class="custom-subtitle">`r fontawesome::fa("chalkboard-teacher", fill = "#98A08D", a11y = "sem")` **Data Science Instructor, 2022-present**</p>   
+<p class="custom-subtitle2">WorldQuant University</p>  
+
+<p class="custom-subtitle">`r fontawesome::fa("chart-bar", fill = "#98A08D", a11y = "sem")` ** Co-author and member of Masakhane, since 2020**</p>    
+<p class="custom-subtitle2">N[Participatory Research for Low-resourced Machine Translation: A Case Study in African Languages](https://www.researchgate.net/publication/344505986_Participatory_Research_for_Low-resourced_Machine_Translation_A_Case_Study_in_African_Languages)</p>
+</div>
+

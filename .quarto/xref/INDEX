@@ -7,5 +7,8 @@
   },
   "resources.qmd": {
     "resources.html": "a6baf41f"
+  },
+  "blog_posts.qmd": {
+    "blog_posts.html": "f674d8e9"
   }
 }
