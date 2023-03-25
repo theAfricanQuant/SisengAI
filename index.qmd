@@ -27,7 +27,7 @@ about:
 
 ### Hello, World!    
 
-<p class="topbr"> Thanks for dropping by. My name is Ricky, and SisengAI is a pet project that showcases my venture in to Data Science, Machine Learning, Financial Engineering and NLP. I'm currently a data science instructor at [WorldQuant University](https://www.wqu.edu/programs/applied-ds-lab) located in New Orleans, LA. We also offer a free Master in Financial Engineering at the same [university](https://www.wqu.edu/programs/mscfe/). Follow the links I have shared to enroll in any of them if you are interested.</p>
+<p class="topbr"> Thanks for dropping by. My name is Ricky, and SisengAI is a pet project that showcases my venture in to Data Science, Machine Learning, Financial Engineering and NLP. I'm currently a data science instructor at [WorldQuant University](https://www.wqu.edu/programs/applied-ds-lab) located in New Orleans, LA. We also offer a free Master in Financial Engineering at the same [university](https://www.wqu.edu/programs/mscfe/){target="_blank"}. Follow the links I have shared to enroll in any of them if you are interested.</p>
 
 ### education
 
