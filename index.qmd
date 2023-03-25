@@ -27,7 +27,7 @@ about:
 
 ### Hello, World!    
 
-<p class="topbr"> Thanks for dropping by. My name is Ricky, and SisengAI is a pet project that showcases my venture in to Data Science, Machine Learning, Financial Engineering and NLP. I'm currently a data science instructor at [WorldQuant University](https://www.wqu.edu/programs/applied-ds-lab) located in New Orleans, LA. We also offer a free Master in Financial Engineering at the same [university](https://www.wqu.edu/programs/mscfe/){target="_blank"}. Follow the links I have shared to enroll in any of them if you are interested.</p>
+<p class="topbr"> Thanks for dropping by. My name is Ricky, and SisengAI is a pet project that showcases my venture in to Data Science, Machine Learning, Financial Engineering and NLP. I'm currently a data science instructor at [WorldQuant University](https://www.wqu.edu/programs/applied-ds-lab){target="_blank"} located in New Orleans, LA. We also offer a free Master in Financial Engineering at the same [university](https://www.wqu.edu/programs/mscfe/){target="_blank"}. Follow the links I have shared to enroll in any of them if you are interested.</p>
 
 ### education
 
@@ -48,6 +48,6 @@ about:
 <p class="custom-subtitle2">WorldQuant University</p>  
 
 <p class="custom-subtitle">`r fontawesome::fa("chart-bar", fill = "#98A08D", a11y = "sem")` **Co-author and member of Masakhane, since 2020**</p>    
-<p class="custom-subtitle2">[Participatory Research for Low-resourced Machine Translation: A Case Study in African Languages](https://www.researchgate.net/publication/344505986_Participatory_Research_for_Low-resourced_Machine_Translation_A_Case_Study_in_African_Languages)</p>
+<p class="custom-subtitle2">[Participatory Research for Low-resourced Machine Translation: A Case Study in African Languages](https://www.researchgate.net/publication/344505986_Participatory_Research_for_Low-resourced_Machine_Translation_A_Case_Study_in_African_Languages){target="_blank"}</p>
 </div>
 
