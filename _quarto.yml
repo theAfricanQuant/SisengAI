@@ -4,17 +4,18 @@ project:
 
 website:
   title: "SisengAI"
+  site-url: "https://SisengAI.com"
   navbar:
     background: primary
-    left:
+    right:
       - href: index.qmd
         text: Home
       - href: about.qmd
         text: About
       - href: resources.qmd # my new Navigation Bar
         text: Resources
-    right: 
-      - blog_posts.qmd # add your blog_posts.qmd file to the navbar of your website!
+      - href: blog_posts.qmd # add your blog_posts.qmd file to the navbar of your website!
+        text: SisengAI Blog
 
 format:
   html:
