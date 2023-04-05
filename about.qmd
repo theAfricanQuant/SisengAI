@@ -7,21 +7,22 @@ about:
   image-shape: round
   image-width: 15em
   links:
-    - text: LinkedIn
-      icon: linkedin
+    - icon: linkedin
       href: https://www.linkedin.com/in/theafricanquant/
-    - text: Twitter
-      icon: twitter
+    - text: "{{< fa brands linkedin-in >}}"
+    - icon: twitter
       href: https://twitter.com/theAfricanQuant
-    - text: GitHub
-      icon: github
+    - text: "{{< fa brands Twitter >}}"
+    - icon: github
       href: https://github.com/theAfricanQuant
-    - text: Email
-      icon: envelope
+    - text: "{{< fa brands GitHub >}}"
+    - icon: envelope
       href: mailto:Ricky.Macharm@SisengAI.com
-    - text: résumé
-      icon: file-text
+    - text: "{{< Email >}}"
+    - icon: file-text
       href: Ricky_CV_2023.pdf
+    - text: "{{< résumé >}}"
+      
 ---
 
 
