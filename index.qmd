@@ -1,27 +1,7 @@
 ---
-title: "Ricky Macharm"
-image: Ricky.png
-resources: Ricky_DataScientist_2023.pdf
-about: 
-  template: trestles
-  image-shape: round
-  image-width: 15em
-  links:
-    - text: LinkedIn
-      icon: linkedin
-      href: https://www.linkedin.com/in/theafricanquant/
-    - text: Twitter
-      icon: twitter
-      href: https://twitter.com/theAfricanQuant
-    - text: GitHub
-      icon: github
-      href: https://github.com/theAfricanQuant
-    - text: Email
-      icon: envelope
-      href: mailto:Ricky.Macharm@SisengAI.com
-    - text: résumé
-      icon: file-text
-      href: Ricky_DataScientist_2023.pdf
+title: "SisengAI"
+
+
 ---
 
 

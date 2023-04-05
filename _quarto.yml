@@ -12,13 +12,23 @@ website:
         text: Home
       - href: about.qmd
         text: About
-      - href: resources.qmd # my new Navigation Bar
-        text: Resources
+      
       - href: blog_posts.qmd # add your blog_posts.qmd file to the navbar of your website!
         text: SisengAI Blog
+  page-footer: 
+    #background: light
+    left: 
+      - "Copyright © 2023, SisengAI"
+    right: 
+      - icon: github
+        href: https://github.com/theAfricanQuant
+      - icon: twitter
+        href: https://twitter.com/theAfricanQuant
+  reader-mode: true
 
 format:
-  html:
+  html: 
+    page-layout: full
     theme: 
       light: minty
       dark: slate

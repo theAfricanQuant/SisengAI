@@ -1,7 +1,7 @@
 ---
 title: "Ricky Macharm"
-image: Ricky.png
-resources: Ricky_DataScientist_2023.pdf
+image: Ricky_Photo.png
+resources: Ricky_CV_2023.pdf
 about: 
   template: trestles
   image-shape: round
@@ -21,7 +21,7 @@ about:
       href: mailto:Ricky.Macharm@SisengAI.com
     - text: résumé
       icon: file-text
-      href: Ricky_DataScientist_2023.pdf
+      href: Ricky_CV_2023.pdf
 ---
 
 
